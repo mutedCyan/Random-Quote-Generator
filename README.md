@@ -1,20 +1,17 @@
 # **Random Quote Generator**
-### _Techdegree Full Stack Javascript Unit 1_
+#### _Techdegree Full Stack Javascript Unit 1_
 
 ![Banner][logo]
 
-[logo]: https://github/mutedCyan/Random-Quote-Generator/blob/main/RandomQBanner.png?raw=true "Banner Logo"
+[logo]: https://github.com/mutedCyan/Random-Quote-Generator/blob/main/img/RandomQBanner.png "Banner Logo"
 
 ## **Project Description**
--------
+
 <p>A random quote app that generates and displays inspirational quotes and changes as a User selects the "Show Quote" button.</p>
 
 ___
 
-___
-
 ## **Project Files**
---- 
 
 * **CSS** (Casacading Style Sheets)
     - **_Normalise_** : Utilise for cross-browser usage to integate HTML styling
@@ -33,9 +30,10 @@ function getRandomQuote() {
   return quotes[randomNum];
 }
 ```
+---
 
 ## **Installation**
----
+
 1. Navigate to the  **`Code`** button
 2. Select  **`Download Zip`**
 3. Copy path of Index.html to chosen browser
