@@ -40,4 +40,3 @@ function getRandomQuote() {
 4. Paste path into search bar
 5. Complete
 
-## [Demo](https://muteCyan.github.io/Random-Quote-Generator/)
