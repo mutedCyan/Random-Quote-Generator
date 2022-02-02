@@ -14,7 +14,7 @@ ___
 ## **Project Files**
 
 * **CSS** (Casacading Style Sheets)
-    - **_Normalise_** : Utilise for cross-browser usage to integate HTML styling
+    - **_Normalise_** : Utilise for cross-browser usage to execute HTML styling
     - **_Styles_** : Attributes for customising the appearance of a HTML document
  
 * **JavaScript**
